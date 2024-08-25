@@ -162,3 +162,6 @@ cython_debug/
 #.idea/
 results/
 .DS_Store
+test/
+*.jsonl
+*.csv
